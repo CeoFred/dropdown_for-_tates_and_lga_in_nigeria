@@ -1,0 +1,16 @@
+.divform{
+	padding: 30px 10px;
+	border: 1px solid;
+	background-color: #228B22;
+	color:#FFF;
+	font-family: tahoma;
+	box-shadow:currentColor;
+	box-sizing: content-box;
+	border-radius: 15px;
+	
+}
+
+.title{
+	text-transform: capitalize;
+	
+}
